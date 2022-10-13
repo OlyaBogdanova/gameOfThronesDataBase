@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gameOfThronesDataBase/static/css/main.94ccd4fd.css",
+    "main.js": "/gameOfThronesDataBase/static/js/main.fa8e616d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gameOfThronesDataBase/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg.jpg": "/gameOfThronesDataBase/static/media/bg.9bcc98dbf50163655524.jpg",
+    "static/media/error.jpg": "/gameOfThronesDataBase/static/media/error.e33dc63c6da1fee4c517.jpg",
+    "index.html": "/gameOfThronesDataBase/index.html",
+    "main.94ccd4fd.css.map": "/gameOfThronesDataBase/static/css/main.94ccd4fd.css.map",
+    "main.fa8e616d.js.map": "/gameOfThronesDataBase/static/js/main.fa8e616d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gameOfThronesDataBase/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ccd4fd.css",
+    "static/js/main.fa8e616d.js"
+  ]
+}
